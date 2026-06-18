@@ -1,0 +1,12 @@
+segment,customer_count,avg_ltv,avg_recency_days,avg_trips,priority_tier,recommended_perk
+At Risk (High Value),186,4187.13,25.08,2.78,1,Aggressive win-back: 22% off + lounge access + concierge outreach
+Do Not Lose,607,2818.43,17.13,4.39,1,Win-back: 18% off next 3 bookings + free upgrade + personalised re-engagement
+Promising (High-Value),164,4480.29,1.56,1.49,1,Tiered loyalty benefits + early access to sales + free cancellation (2 bookings)
+Loyal Customers,841,2653.54,6.8,4.46,2,Free checked bag + 10% loyalty discount + priority service
+Champions,366,2929.93,5.4,4.26,2,Loyalty rewards + quarterly exclusive offers + referral bonus
+Need Attention,600,1697.07,6.8,2.71,3,Engagement bonus: 12% off + free baggage + loyalty enrolment incentive
+Potential Champions,575,2086.88,4.97,2.68,3,Frequency incentive: 10% off next 5 bookings + bundle deals + exclusive previews
+About to Sleep,373,954.06,6.89,1.63,4,Re-engagement: 18% off + free hotel voucher + last-chance exclusive
+Promising (Growth),709,687.94,3.34,1.32,4,First-booking incentive: 12% off + free cancellation on first 2 bookings
+At Risk,453,910.81,20.28,2.64,5,Basic re-engagement: 12% off + flash sale notification
+Hibernating,1124,481.69,16.61,0.75,5,Soft re-engagement: 10% off + new feature notification (minimal investment)

@@ -1,0 +1,30 @@
+# Raw data (large files — use customers_ORIGINAL.csv instead)
+data/raw/sessions_table.xlsx
+data/raw/users_table.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Build scripts (not part of the portfolio deliverable)
+build_notebook.py
+patch_*.py
+fix_segment.py
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Virtual environment
+venv/
+.env/
+*.egg-info/
