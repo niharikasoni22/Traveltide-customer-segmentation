@@ -165,17 +165,6 @@ traveltide-customer-segmentation/
 
 Full `sessions` and `users` tables are not committed because of file size. `customers.csv` is the aggregated feature table derived from them.
 
-## How to Reproduce
-
-```bash
-git clone https://github.com/<niharikasoni22>/traveltide-customer-segmentation.git
-cd traveltide-customer-segmentation
-pip install -r requirements.txt
-jupyter notebook notebooks/traveltide_analysis.ipynb   # Run All
-```
-
-Outputs are written to `data/processed/`.
-
 ## Data Notes & Limitations
 
 - **Monetary = hotel spend only.** `money_spent_hotel` is the monetary proxy. Flight spend is not captured, so flight-heavy customers are under-valued. The "$1,758 average spend" is average hotel spend across all 5,998 customers, including 959 with no hotel spend (treated as $0).
